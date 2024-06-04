@@ -1,4 +1,4 @@
-# Welcome to the DSA-Volunteer-Resource-Hub
+# Welcome to the DSA_Volunteer_Teaching_Repositary
 
 **What You'll Find Here:**
 
