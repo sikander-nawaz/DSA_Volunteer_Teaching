@@ -25,7 +25,7 @@
                     </a> 
                </td>
                <td align="center">
-                    <a href="https://www.linkedin.com/in/muhammad-qasim-ali/">
+                    <a href="https://github.com/Qasimali20">
                          <img src="https://media.licdn.com/dms/image/D4D03AQHsBMcLB55ZeQ/profile-displayphoto-shrink_800_800/0/1684694049702?e=1723075200&v=beta&t=Ncpux5VYHOi26zCYohxWf_HiTOx04uwZFZkh_bv3Ej4" width="100px;" alt="Muhammad_Qasim_Ali"/>
                          <br />
                          <sub><b>Muhammad Qasim Ali</b></sub>
@@ -46,7 +46,7 @@
                     </a> 
                </td>
                <td align="center">
-                    <a href="https://www.linkedin.com/in/tayyab-rehan11/">
+                    <a href="https://github.com/tayyabrehan">
                          <img src="https://media.licdn.com/dms/image/D4D03AQG_VVXXEWc6FA/profile-displayphoto-shrink_800_800/0/1702522963844?e=1723075200&v=beta&t=EHbHlTTTwjrrsbInfYUm8FYRqChAMlijR-bw4rn0KBE" width="100px;" alt="Tayyab_Rehan"/>
                          <br />
                          <sub><b>Tayyab Rehan</b></sub>
