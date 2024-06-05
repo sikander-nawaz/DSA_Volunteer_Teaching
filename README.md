@@ -14,7 +14,7 @@
 
 # Trainers & Moderators
 
-<table align="center">
+<table >
      <tbody>
           <tr>
                <td align="center">
