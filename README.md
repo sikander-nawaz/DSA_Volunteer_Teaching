@@ -80,7 +80,6 @@ Before starting, ensure you have the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sikander-nawaz/DSA_Volunteer_Teaching.git
-   cd icodeguru-dsa-course
    ```
 
 ## Course Outline
