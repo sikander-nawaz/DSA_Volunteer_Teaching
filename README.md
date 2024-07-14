@@ -90,10 +90,10 @@ The course is structured into several modules, each focusing on a different aspe
 ### Module 1: Introduction to Data Structures
 
 - Arrays
-- Two Pointer Method
-- sliding Window
-- Binary Search
 - Time and Space Complexity
+- Two Pointer Method
+- Binary Search
+- Sliding Window
 - Sorting Algorithms
 - Stacks and Queues
 
