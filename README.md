@@ -1,18 +1,20 @@
-# Welcome to the DSA_Volunteer_Teaching_Repositary
+# Data Structures and Algorithms Course - iCodeGuru
 
-**What You'll Find Here:**
+Welcome to the Data Structures and Algorithms Course repository! This course, organized by iCodeGuru, focuses on enhancing your problem-solving skills through solving LeetCode questions. We aim to provide a comprehensive understanding of various data structures and algorithms, crucial for coding interviews and competitive programming.
 
-**Practice Questions:** A collection of problems with varying difficulty levels to enhance problem-solving skills.
+## Course Overview
 
-**Solutions:** Step-by-step solutions to practice questions to help understand the approach and logic.
+This course is designed to teach you the fundamental concepts of data structures and algorithms. You'll gain hands-on experience by solving carefully curated LeetCode problems that illustrate these concepts.
 
-**Data:** Presentation slides, code etc for use in teaching sessions.
+## Table of Contents
 
-**Tutorials:** Links to video tutorials
+- [Team](#trainers)
+- [Getting Started](#getting-started)
+- [Course Outline](#course-outline)
+- [Resources](#resources)
+- [Contact](#contact)
 
-**Join Our Community on [iCodeGuru](https://icode.guru/join/)**
-
-# Trainers & Moderators
+## Trainers
 
 <table >
      <tbody>
@@ -38,6 +40,15 @@
                          <sub><b>Sikander Nawaz</b></sub>
                     </a> 
                </td>
+          </tr>     
+     </tbody>
+<table>
+
+## Moderators
+
+<table >
+     <tbody>
+          <tr>
                <td align="center">
                     <a href="https://github.com/A5jadAli">
                          <img src="https://avatars.githubusercontent.com/u/123229279?v=4" width="100px;" alt="Asjad_Ali"/>
@@ -56,48 +67,73 @@
      </tbody>
 <table>
 
-# Week 1
+## Getting Started
 
-| Day |                                       Facebook Video Link                                       |                                                                                                                                                                           Material Link                                                                                                                                                                            |                                                           Trainer Name                                                           |
-| :-: | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-| 01  |        [Introduction of DSA](https://www.facebook.com/iCodeguru/videos/1013845070132222)        |                                                                                                                           [Slides](https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing)                                                                                                                           |                                   [Sir Qasim](https://www.linkedin.com/in/muhammad-qasim-ali/)                                   |
-| 02  |  [LeetCode Question </br> (Array)](https://www.facebook.com/iCodeguru/videos/1589526091828509)  |                                                                                                                                            [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                                                                                                                            |                                   [Sir Qasim](https://www.linkedin.com/in/muhammad-qasim-ali/)                                   |
-| 03  | [LeetCode Questions </br> (Array)](https://www.facebook.com/iCodeguru/videos/7397410460357907)  |                                                                                                           [1. Two Sum](https://leetcode.com/problems/two-sum) </br> [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                                                                                                           | [Sir Irfan](https://www.linkedin.com/in/irfan-ali-76a82a212/) </br> [Sir Qasim](https://www.linkedin.com/in/muhammad-qasim-ali/) |
-| 04  | [LeetCode Questions </br> (Array)](https://www.facebook.com/iCodeguru/videos/1519799128919369/) | [3151. Special Array I](https://leetcode.com/problems/special-array-i/) </br> [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) </br> [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |                                  [Sikander Nawaz](https://www.linkedin.com/in/sikander-nawaz/)                                   |
-| 05  | [LeetCode Questions </br> (Array)](https://www.facebook.com/iCodeguru/videos/1631086947723946/) |                                                             [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) </br> [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room)                                                              |                          [Sir Qasim](https://www.linkedin.com/in/muhammad-qasim-ali/) </br> Participant                          |
+### Prerequisites
 
-# Week 2
+Before starting, ensure you have the following:
 
-| Day |                                      Facebook Video Link                                       |                                                                                                    Material Link                                                                                                    |                                  Trainer Name                                   |
-| :-: | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| 01  | [LeetCode Questions </br> (Array)](https://www.facebook.com/iCodeguru/videos/2161035004274892) | [[575. Distribute Candies](https://leetcode.com/problems/distribute-candies)][[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)][[66. Plus One](https://leetcode.com/problems/plus-one/)] |          [Sir Irfan](https://www.linkedin.com/in/irfan-ali-76a82a212/)          |
-| 02  | [LeetCode Questions </br> (Array)](https://www.facebook.com/iCodeguru/videos/456233403781923)  |                                      [561. Array Partition](https://leetcode.com/problems/array-partition) </br> [75. Sort Colors](https://leetcode.com/problems/sort-colors)                                       |          [Sir Irfan](https://www.linkedin.com/in/irfan-ali-76a82a212/)          |
-| 03  | [LeetCode Questions </br> (Array)](https://www.facebook.com/iCodeguru/videos/1255202092126804) |  [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) </br> [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)   | Participant </br> [Sir Irfan](https://www.linkedin.com/in/irfan-ali-76a82a212/) |
+- A LeetCode account: [LeetCode](https://leetcode.com/)
 
-# Week 3
+### Installation
 
-| Day |                                             Facebook Video Link                                             |                                                                                                                                                                                                           Material Link                                                                                                                                                                                                            |                                  Trainer Name                                   |
-| :-: | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| 01  |           [Time and Space Complexity](https://www.facebook.com/iCodeguru/videos/1537945223838497)           |                                                                                                                                         [Slides](https://docs.google.com/presentation/d/1eNR5canogZm7vMnuk570KOLJh6HCS5Qv/edit?usp=sharing&ouid=111249400583101556738&rtpof=true&sd=true)                                                                                                                                          |          [Sir Qasim](https://www.linkedin.com/in/muhammad-qasim-ali/)           |
-| 02  |  [LeetCode Questions </br> (2D Array, String)](https://www.facebook.com/iCodeguru/videos/1545868266310912)  | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) </br> [1365. How Many Numbers Are Smaller Than the Current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) </br> [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) </br> [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Sir Sikander](https://www.linkedin.com/in/sikander-nawaz/) <br /> Participents |
-| 03  |        [LeetCode Question </br> (Array)](https://www.facebook.com/iCodeguru/videos/437302975961721)         |                                                                                                                                                                [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)                                                                                                                                                                | [Sir Sikander](https://www.linkedin.com/in/sikander-nawaz/) <br /> Participent  |
-| 04  | [LeetCode Question </br> (String, Linked List)](https://www.facebook.com/iCodeguru/videos/1478922972734710) |                                                                                                                             [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) </br> [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)                                                                                                                              | [Sir Sikander](https://www.linkedin.com/in/sikander-nawaz/) <br /> Participents |
-| 05  |     [LeetCode Question </br> (Two Pointers)](https://www.facebook.com/iCodeguru/videos/488502713650480)     |                                                                                                                                                                             [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                                                                                                                             | [Sir Qasim](https://www.linkedin.com/in/muhammad-qasim-ali/) </br> Participent  |
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sikander-nawaz/DSA_Volunteer_Teaching.git
+   cd icodeguru-dsa-course
+   ```
 
-# Week 4
+## Course Outline
 
-| Day |                                            Facebook Video Link                                            |                                                                                  Material Link                                                                                   |                                  Trainer Name                                   |
-| :-: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| 01  |   [LeetCode Question </br> (List, String)](https://www.facebook.com/iCodeguru/videos/375322695170750/)    |                      [[283. Move Zeroes](https://leetcode.com/problems/move-zeroes)] [[520. Detect Capital](https://leetcode.com/problems/detect-capital)]                       |   Participent </br> [Sir Tayyab](https://www.linkedin.com/in/tayyab-rehan11/)   |
-| 02  |       [LeetCode Question </br> (Array)](https://www.facebook.com/iCodeguru/videos/434976239432805)        |                                         [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)                                          |                                   Participent                                   |
-| 03  | [LeetCode Question </br> (Array, Two Pointer)](https://www.facebook.com/iCodeguru/videos/984567463454697) |                                                 [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                  |          [Sir Qasim](https://www.linkedin.com/in/muhammad-qasim-ali/)           |
-| 04  |       [LeetCode Question </br> (Array)](https://www.facebook.com/iCodeguru/videos/1014553176690595)       | [[2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)] [[1. Two Sum](https://leetcode.com/problems/two-sum)] | [Sir Sikander](https://www.linkedin.com/in/sikander-nawaz/) <br /> Participents |
-| 05  |       [LeetCode Question </br> (Array)](https://www.facebook.com/iCodeguru/videos/849590116520666)        |  [[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix)] [[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)]   | [Sir Sikander](https://www.linkedin.com/in/sikander-nawaz/) <br /> Participents |
+The course is structured into several modules, each focusing on a different aspect of data structures and algorithms. Each module contains a set of LeetCode problems to reinforce the concepts learned.
 
-# Week 5
+### Module 1: Introduction to Data Structures
 
-| Day |                                          Facebook Video Link                                          |                                                                                   Material Link                                                                                    |                                  Trainer Name                                  |
-| :-: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| 01  | [LeetCode Question <br /> (Binary Search)](https://www.facebook.com/iCodeguru/videos/524486393236955) | [[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)] [[704. Binary Search](https://leetcode.com/problems/binary-search)] |  Participent <br /> [Asjad Ali](https://www.linkedin.com/in/asjad-ali-arif/)   |
-| 02  |            [LeetCode Question](https://www.facebook.com/iCodeguru/videos/1538155887063489)            |                                                        [507. Perfect Number](https://leetcode.com/problems/perfect-number)                                                         | [Sir Sikander](https://www.linkedin.com/in/sikander-nawaz/) <br /> Participent |
-| 03  |            [LeetCode Question](https://www.facebook.com/iCodeguru/videos/442881595396811)             |                       [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) <br /> [75. Sort Colors](https://leetcode.com/problems/sort-colors)                       | [Sir Sikander](https://www.linkedin.com/in/sikander-nawaz/) <br /> Participent |
+- Arrays
+- Two Pointer Method
+- sliding Window
+- Binary Search
+- Time and Space Complexity
+- Sorting Algorithms
+- Stacks and Queues
+
+### Module 2: Trees and Graphs
+
+- Linked Lists
+- Binary Trees
+- Binary Search Trees
+- Graphs and Graph Traversal
+- Trie Data Structure
+
+### Module 4: Dynamic Programming
+
+- Memoization
+- Tabulation
+- Common DP Problems
+
+### Module 5: Advanced Topics
+
+- Backtracking
+- Greedy Algorithms
+- Graph Algorithms
+
+## Resources
+
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [NeetCode](https://neetcode.io/)
+- [Everything you need to know about python for interview](https://youtu.be/0K_eZGS5NsU?si=lMF7EaMqasd52aOO)
+
+## Video Recordings
+
+If you missed the live class, you can access the recorded lectures and relevant materials from this [folder]("./Materia").
+
+- [Lecture Recordings](https://docs.google.com/spreadsheets/d/1o175-CnYc3oxKlPSYbaeU62KfiMN5tjw1nVnj5fP164/edit?usp=drive_link)
+
+## Contact
+
+For any queries or suggestions, please reach out to us at [ICodeGuru](https://icode.guru/)
+
+Happy Coding!
+
+---
