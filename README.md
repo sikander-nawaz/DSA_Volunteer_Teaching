@@ -126,9 +126,7 @@ The course is structured into several modules, each focusing on a different aspe
 
 ## Video Recordings
 
-If you missed the live class, you can access the recorded lectures and relevant materials from this [folder]("./Materia").
-
-- [Lecture Recordings](https://docs.google.com/spreadsheets/d/1o175-CnYc3oxKlPSYbaeU62KfiMN5tjw1nVnj5fP164/edit?usp=drive_link)
+If you missed the live class, you can access the recorded lectures and relevant materials from this [folder](./Material).
 
 ## Contact
 
